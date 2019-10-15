@@ -9,4 +9,4 @@ The links below will bring you to subfolders within the repo containing relevant
 - [Weeks 1 and 2](https://github.com/luluxpei/STAT545-participation/tree/master/weeks_1_and_2)
 - [Weeks 3 and 4](https://github.com/luluxpei/STAT545-participation/tree/master/weeks_3_and_4)
 - [Weeks 5 and 6](https://github.com/luluxpei/STAT545-participation/tree/master/weeks_5_and_6)
-- Week 7
+- [Week 7](https://github.com/luluxpei/STAT545-participation/tree/master/week_7)
